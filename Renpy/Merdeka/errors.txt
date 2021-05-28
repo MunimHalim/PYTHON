@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 17: end of line expected.
+    scene download.jpeg
+                  ^
+
+File "game/script.rpy", line 23: end of line expected.
+    show pelajar.png
+                ^
+
+Ren'Py Version: Ren'Py 7.4.5.1648
+Fri May 28 22:44:44 2021
