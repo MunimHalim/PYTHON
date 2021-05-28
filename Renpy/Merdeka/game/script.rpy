@@ -3,7 +3,10 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define k1 = Character("Pelajar")
+define p = Character("Pelajar")
+define g = Character("Guru")
+define r = Character("Rakaman Suara")
+define u = Character("???")
 
 
 # The game starts here.
@@ -20,10 +23,18 @@ label start:
 
     # These display lines of dialogue.
 
-    k1 "You've created a new Ren'Py game."
+    r "Merdeka! Merdeka! Merdeka!"
 
-    k1 "Once you add a story, pictures, and music, you can release it to the world!"
+    p "Sungguh nostalgia suara ini...  Aku harap tahu ini dapat sambut merdeka di sekolah. (Monolog)"
 
-    # This ends the game.
+    u "Terdengar suara dari belakang "
+
+    u "Kamu nampaknya bersemangat hari ini. Ada apa ?"
+
+    p "Menoleh ke belakang dan ternampak gurunya sedang berdiri sambil tersenyum."
+
+    p "Bulan kemerdekaan sudah dekat cikgu ! Saya tengok balik kenangan kemerdekaan negara kita ini."
+
+    # Tamat
 
     return

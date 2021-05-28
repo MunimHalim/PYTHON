@@ -2,9 +2,17 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 21: expected 'image_name_component' not found.
-    show 
-         ^
+File "game/script.rpy", line 9: expected 'word' not found.
+    define ? = Character("???")
+           ^
+
+File "game/script.rpy", line 30: expected statement.
+    ? "Terdengar suara dari belakang "
+    ^
+
+File "game/script.rpy", line 32: expected statement.
+    ? "Kamu nampaknya bersemangat hari ini. Ada apa ?"
+    ^
 
 Ren'Py Version: Ren'Py 7.4.5.1648
-Sat May 29 01:12:38 2021
+Sat May 29 04:34:51 2021
