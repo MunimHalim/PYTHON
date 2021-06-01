@@ -1,3 +1,5 @@
-# PYTHON
+# Local experts finding using user comments in location-based social networks
 
-renpy paparan : https://merdeka2021-bg42b.ondigitalocean.app/
+REPLICATING THE METHOD
+
+
