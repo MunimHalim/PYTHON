@@ -31,9 +31,7 @@ label start:
 
     p "Sungguh nostalgia suara ini...  Aku harap tahu ini dapat sambut merdeka di sekolah. (Monolog)"
 
-    u "Terdengar suara dari belakang "
-
-    u "Kamu nampaknya bersemangat hari ini. Ada apa ?"
+    u "Kamu nampaknya bersemangat hari ini. Ada apa ? (Terdengar suara dari belakang)"
 
     p "Menoleh ke belakang dan ternampak gurunya sedang berdiri sambil tersenyum."
 
