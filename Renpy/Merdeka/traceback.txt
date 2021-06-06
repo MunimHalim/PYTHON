@@ -1,0 +1,42 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+IOError: Couldn't find file 'audio/OttomanTurkishSong.mp3'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "renpy/common/_layout/screen_main_menu.rpym", line 28, in script
+    python hide:
+  File "/home/pc/Downloads/renpy-7.4.5-sdk/renpy/ast.py", line 922, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/home/pc/Downloads/renpy-7.4.5-sdk/renpy/python.py", line 2218, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "renpy/common/_layout/screen_main_menu.rpym", line 28, in <module>
+    python hide:
+  File "renpy/common/_layout/screen_main_menu.rpym", line 35, in _execute_python_hide
+    ui.interact()
+  File "/home/pc/Downloads/renpy-7.4.5-sdk/renpy/ui.py", line 298, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "/home/pc/Downloads/renpy-7.4.5-sdk/renpy/display/core.py", line 3213, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, **kwargs)
+  File "/home/pc/Downloads/renpy-7.4.5-sdk/renpy/display/core.py", line 3915, in interact_core
+    renpy.audio.audio.periodic()
+  File "/home/pc/Downloads/renpy-7.4.5-sdk/renpy/audio/audio.py", line 1126, in periodic
+    raise_(exc[0], exc[1], exc[2])
+  File "/home/pc/Downloads/renpy-7.4.5-sdk/renpy/audio/audio.py", line 1104, in periodic_thread_main
+    periodic_pass()
+  File "/home/pc/Downloads/renpy-7.4.5-sdk/renpy/audio/audio.py", line 1046, in periodic_pass
+    c.periodic()
+  File "/home/pc/Downloads/renpy-7.4.5-sdk/renpy/audio/audio.py", line 505, in periodic
+    topf = load(self.file_prefix + filename + self.file_suffix)
+  File "/home/pc/Downloads/renpy-7.4.5-sdk/renpy/audio/audio.py", line 69, in load
+    rv = renpy.loader.load(fn)
+  File "/home/pc/Downloads/renpy-7.4.5-sdk/renpy/loader.py", line 798, in load
+    raise IOError("Couldn't find file '%s'." % name)
+IOError: Couldn't find file 'audio/OttomanTurkishSong.mp3'.
+
+Linux-5.8.0-53-generic-x86_64-with-debian-bullseye-sid
+Ren'Py 7.4.5.1648
+Merdeka 1.0
+Thu Jun  3 10:27:17 2021

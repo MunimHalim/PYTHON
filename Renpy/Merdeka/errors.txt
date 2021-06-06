@@ -2,17 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 9: expected 'word' not found.
-    define ? = Character("???")
-           ^
-
 File "game/script.rpy", line 30: expected statement.
-    ? "Terdengar suara dari belakang "
-    ^
-
-File "game/script.rpy", line 32: expected statement.
-    ? "Kamu nampaknya bersemangat hari ini. Ada apa ?"
-    ^
+    music stop
+              ^
 
 Ren'Py Version: Ren'Py 7.4.5.1648
-Sat May 29 04:34:51 2021
+Thu Jun  3 09:47:37 2021

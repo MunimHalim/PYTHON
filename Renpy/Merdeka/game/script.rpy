@@ -15,7 +15,7 @@ label start:
 
     # Menunjukkan paparan latarbelakang
 
-    scene fizik
+    scene classroom
 
     # Karakter
 
@@ -23,7 +23,11 @@ label start:
 
     # These display lines of dialogue.
 
+    play music "/audio/merdeka.ogg" fadeout 1.0
+
     r "Merdeka! Merdeka! Merdeka!"
+
+    stop music
 
     p "Sungguh nostalgia suara ini...  Aku harap tahu ini dapat sambut merdeka di sekolah. (Monolog)"
 
