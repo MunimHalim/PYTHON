@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 30: expected statement.
-    music stop
-              ^
+File "game/script.rpy", line 59: expected menuitem
+    menu:
+    ^
 
 Ren'Py Version: Ren'Py 7.4.5.1648
-Thu Jun  3 09:47:37 2021
+Sun Jun  6 22:29:28 2021
