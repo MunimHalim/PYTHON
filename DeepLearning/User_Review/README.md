@@ -92,7 +92,4 @@ Understanding data
 - [ ] Refer paper (theory and formula)
 
 
-\### Project status
-
-
 
