@@ -73,6 +73,7 @@ Graphing data - In progress
 Task 2
 ------
 Working with data
+
 --Read data from json
 --Clean data
 -- 
@@ -80,6 +81,7 @@ Working with data
 Task 3
 ------
 Merge and plot dataframes
+
 -- scatter plot
 -- histograms
 -- regression lines
