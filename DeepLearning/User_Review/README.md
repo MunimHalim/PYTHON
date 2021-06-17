@@ -4,6 +4,16 @@ REPLICATING THE METHOD
 
 https://www.semanticscholar.org/paper/Local-experts-finding-using-user-comments-in-social-Cao-Yang/834177c11566c44371fa58fdac6b20d9396cb0d6
 
+Datasets
+========
+
+Yelp dataset
+
+Language
+========
+
+python 3
+
 Other References
 ================
 
@@ -40,4 +50,36 @@ Data preparation
 Flowchart
 
 read data from csv
+
+18 June 2021
+============
+
+Task 1
+------
+Finding data - done 
+Connecting to APIs - N/A
+Formatting data - Using sample
+Merging datasets - In progress
+Graphing data - In progress
+
+Task 2
+------
+Working with data
+-- Read data from json
+-- Clean data
+-- 
+
+Task 3
+------
+Merge and plot dataframes
+-- scatter plot
+-- histograms
+-- regression lines
+
+Task 4
+------
+Understanding data
+-- Refer paper (theory and formula)
+
+
 
