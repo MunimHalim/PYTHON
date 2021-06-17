@@ -64,11 +64,11 @@ read data from csv
 
 Task 1
 ------
-Finding data - done 
-Connecting to APIs - N/A
-Formatting data - Using sample
-Merging datasets - In progress
-Graphing data - In progress
+- [ ] Finding data - done 
+- [ ] Connecting to APIs - N/A
+- [ ] Formatting data - Using sample
+- [ ] Merging datasets - In progress
+- [ ] Graphing data - In progress
 
 Task 2
 ------
