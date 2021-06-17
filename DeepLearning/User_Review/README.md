@@ -92,4 +92,15 @@ Understanding data
 -- Refer paper (theory and formula)
 
 
+\### Project status
+
+- [x] Design
+- [x] Mockups
+- [x] Development
+- [x] Unit testing
+- [ ] QA
+- [ ] Stage
+- [ ] Beta Testing
+- [ ] Production
+
 
