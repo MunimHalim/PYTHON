@@ -20,6 +20,15 @@ scipy
 
 https://scikit-network.readthedocs.io/en/latest/tutorials/ranking/pagerank.html
 
+numpy 
+
+https://www.youtube.com/watch?v=SlhNL4jrhXw
+
+github-repo
+===========
+
+https://github.com/wiqaaas/youtube/blob/master/Machine_Learning_from_Scratch/Search_Engine_Recommender/PageRank.ipynb
+
 
 
 17 June 2021
