@@ -44,6 +44,12 @@ https://github.com/sbarman-mi9/PageRank_in_Python
 
 https://github.com/darshandagly/Fake-Review-Detection
 
+https://github.com/ptressel/yelp_friend_analysis
+
+https://github.com/Harshrajsinh96/Yelp_Friend_Recommendation
+
+https://github.com/vijetha35/FriendsRecommendationForYelpUsers
+
 17 June 2021
 ============
 
