@@ -42,6 +42,8 @@ https://github.com/wiqaaas/youtube/blob/master/Machine_Learning_from_Scratch/Sea
 
 https://github.com/sbarman-mi9/PageRank_in_Python
 
+https://github.com/darshandagly/Fake-Review-Detection
+
 17 June 2021
 ============
 
