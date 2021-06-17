@@ -73,8 +73,8 @@ Graphing data - In progress
 Task 2
 ------
 Working with data
--- Read data from json
--- Clean data
+-- Read data from json \n
+-- Clean data \n
 -- 
 
 Task 3
