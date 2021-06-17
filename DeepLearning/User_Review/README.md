@@ -74,33 +74,25 @@ Task 2
 ------
 Working with data
 
---Read data from json
---Clean data
+- [ ] Read data from json
+- [ ] Clean data
 -- 
 
 Task 3
 ------
 Merge and plot dataframes
 
--- scatter plot
--- histograms
--- regression lines
+- [x] scatter plot
+- [ ] histograms
+- [ ] regression lines
 
 Task 4
 ------
 Understanding data
--- Refer paper (theory and formula)
+- [ ] Refer paper (theory and formula)
 
 
 \### Project status
 
-- [x] Design
-- [x] Mockups
-- [x] Development
-- [x] Unit testing
-- [ ] QA
-- [ ] Stage
-- [ ] Beta Testing
-- [ ] Production
 
 
