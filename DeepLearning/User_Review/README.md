@@ -12,6 +12,13 @@ https://dl.acm.org/doi/pdf/10.1145/2994599
 theory and concept
 ==================
 
+pyspark
+
+https://livebook.manning.com/book/mastering-large-datasets/chapter-9/80
+
+scipy
+
+https://scikit-network.readthedocs.io/en/latest/tutorials/ranking/pagerank.html
 
 
 
