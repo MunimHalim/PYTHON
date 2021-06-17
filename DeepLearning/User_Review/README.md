@@ -30,6 +30,7 @@ github-repo
 https://github.com/wiqaaas/youtube/blob/master/Machine_Learning_from_Scratch/Search_Engine_Recommender/PageRank.ipynb
 
 
+https://github.com/sbarman-mi9/PageRank_in_Python
 
 17 June 2021
 ============
@@ -37,4 +38,6 @@ https://github.com/wiqaaas/youtube/blob/master/Machine_Learning_from_Scratch/Sea
 Data preparation
 
 Flowchart
+
+read data from csv
 
